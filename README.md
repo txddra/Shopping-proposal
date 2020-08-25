@@ -13,6 +13,8 @@
 ---
 My other thought for the final project would be a random photo generator, that saves your image results until you clear them all.
  ### With this app, you'll be able to :
+ - **type in a random word**
  - **click a given button and get returned a photo**
  - **The photo is stored in an ordered list**
- - **You'll be able to clear all given pictures*
+ - **You'll be able to clear all given pictures**
+ 
